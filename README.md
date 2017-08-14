@@ -1,10 +1,10 @@
 # Python Jumpstart Review
 
-A quick introductory review to Python via Talk Python's Python Jumpstart course. 
+Intro to Python via Udemy's Complete Python Masterclass. [Link](https://www.udemy.com/python-the-complete-python-developer-course/)
 
 ## Project Goal
 
-To complete all of the apps within the course, while providing summaries of the main concepts
+To complete all of the sections within the course, while providing summaries of the main concepts
 and ideas learned within each section. 
 
 ## Project Summary
